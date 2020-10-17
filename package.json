@@ -1,5 +1,5 @@
 ...
   "sn": {
-    "main": "relative/path/to/index.html"
+    "main": "theme.css"
   },
 ...
